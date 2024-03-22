@@ -11,7 +11,7 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 This Python script visualizes the age distribution in India for the year 2021 using data from a provided CSV file. It filters the dataset to select only the data for India and then plots a bar chart showing the population count for different age categories. The age categories include '0-4 years', '5-14 years', '15-24 years', '25-64 years', and '65+'. The y-axis represents the population count in millions. The script uses pandas for data manipulation and matplotlib for plotting the bar chart.
 
 
-## Usage:
+## Usage
 
 - Ensure Python and required libraries (pandas, matplotlib) are installed.
 - Place the script and the dataset CSV file in the same directory.
